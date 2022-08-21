@@ -337,9 +337,7 @@ small{
     cursor: pointer;
     filter:grayscale(100%)
 }
-.col-5 img:hover{
-    filter:grayscale(0)
-}
+
 
 /*------------------------footer----------------------*/
 
